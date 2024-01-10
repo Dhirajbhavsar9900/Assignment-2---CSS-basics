@@ -1,0 +1,96 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1704616950334-38157594e3c9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: 100vw;
+}
+.head{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 400px;
+    margin: 50px;
+    padding: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+    padding: 10px;
+    border-radius: 10px;
+    width: 70px;
+    font-size: 1.3rem;
+    justify-content: left;
+    margin: 0;
+    padding: 5px;
+    
+}
+
+a{
+    background-color: aliceblue;
+    border-end-end-radius: 5px;
+}
+
+main{
+    padding : 10px;
+    width: 400px;
+    height: 500px;
+    font-size: 20px;
+}
+.h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+.main-sec{
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    padding : 10px;
+    margin: 0px;
+    width: 400px;
+    height: 450px;
+    font-size: 20px;
+}
+
+article {
+    background-color: rgb(89, 177, 255);
+    padding : 0px;
+    margin: 0;
+}
+
+aside {
+    float: right;
+    border: 1px solid black;
+    width: 500px;
+    height: 450px;
+    margin: 100px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+.h2 {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(68, 130, 255);
+    font-size: 40px;
+    font-style: initial;
+}
+.aside-sec {
+    background-color: rgb(89, 177, 255);
+    padding : 0px;
+    margin: 0px;
+    width: 400px;
+    height: 40px;
+    font-size: 20px;
+}
+
+footer {
+    background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
